@@ -79,6 +79,25 @@
             width: 62px;
         }
     }
+    .team-homepage {
+        .team-homepage-text {
+            width: 100%;
+        }
+    }
+    .team-homepage {
+        img {
+            width: 79%;
+        }
+    }
+    .we-offer{
+        width:100%;
+    }
+    .sample-headline{
+        width: 81%;
+    }
+    .card-6{
+        width:40%;
+    }
 }
 
 @media only screen and (max-width: 600px) {
@@ -115,6 +134,16 @@
         padding:20px 0;
     }
     .footer-col{
+        width: 100%;
+    }
+
+}
+@media only screen and (max-width: 450px){
+    .card-6{
+        width: 100%;
+        text-align: center;
+    }
+    .sample-headline{
         width: 100%;
     }
 }
