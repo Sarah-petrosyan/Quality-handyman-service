@@ -98,15 +98,55 @@
     .card-6{
         width:40%;
     }
+    .card-7{
+        width:32%;
+        padding:30px 8px 60px 8px;
+
+    }
 }
 
 @media only screen and (max-width: 600px) {
+    nav {
+        display: none;
+        position: fixed;
+        width: 50%;
+        left: 0;
+        top: 0;
+        color: white;
+        height: 100%;
+        background: black;
+        z-index: 9;
+.my-bar-close{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 30px;
+
+    &:hover{
+        color: red;
+        cursor: pointer;
+    }
+}
+        .nav-bar{
+            li{
+                    padding: 20px;
+
+                a{
+
+                    color: #f8f5f5;
+                    font-size: 25px;
+
+                }
+            }
+        }
+        .row{
+            flex-direction: column;
+        }
+    }
     .home-services{
         padding: 120px 4px 80px 0;
     }
-    .nav-bar{
-        display: none;
-    }
+
     .mobile-menu{
         display: block;
     }
@@ -136,6 +176,13 @@
     .footer-col{
         width: 100%;
     }
+    .handyman-services{
+        width: 67%;
+        padding: 50px 17px;
+    }
+    .card-7{
+        width:49%;
+    }
 
 }
 @media only screen and (max-width: 450px){
@@ -145,5 +192,24 @@
     }
     .sample-headline{
         width: 100%;
+    }
+    .card-7{
+        width:100%;
+
+        h3{
+            font-size: 25px;
+        }
+
+        p{
+            font-size: 20px;
+        }
+    }
+    .handyman-services {
+        width: 71%;
+        padding: 50px 17px;
+        margin: auto;
+    }
+    .btn-landing{
+        width: 56%;
     }
 }
