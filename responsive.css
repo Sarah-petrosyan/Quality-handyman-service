@@ -103,6 +103,22 @@
         padding:30px 8px 60px 8px;
 
     }
+    .quotes-section{
+        padding:50px;
+    }
+    .quotes-image{
+        width: 100%;
+    }
+    .quotes{
+        width: 100%;
+    }
+    .easy-to-book{
+        width: 100%;
+    }
+    .easy-to-book-img{
+        width: 100%;
+        position: relative;
+    }
 }
 
 @media only screen and (max-width: 600px) {
@@ -182,6 +198,9 @@
     }
     .card-7{
         width:49%;
+    }
+    .free-estimate-card {
+        width: 100%;
     }
 
 }
