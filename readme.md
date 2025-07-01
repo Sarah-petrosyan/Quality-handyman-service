@@ -24,7 +24,7 @@ It features dedicated sections like Home, About Us, Team, and a strong Landing a
 
 ## Demo Screenshot
 
-![Desktop Demo](./img.jpg "Desktop Demo")
+![Desktop Demo](./main-webstie-photo.jpg "Desktop Demo")
 
 ---
 
