@@ -13,13 +13,24 @@
 
 ## About the Project
 
-This is a modern, mobile-friendly website tailored for a construction or handyman business.  
-It features dedicated sections like Home, About Us, Team, and a strong Landing area — giving a complete overview of a company's values, vision, and services.
+Quality Handyman Service is a modern, mobile-friendly website designed for a **construction or handyman business**.
 
-✅ Built 100% with **custom CSS**  
-✅ Fully responsive and beginner-friendly  
-✅ Great reference for clean layout and HTML/CSS structure
+The page includes several key sections such as **Home, About Us, Team, and a strong landing area**, providing a clear overview of the company's services, values, and mission.
 
+This project focuses on building a **structured and visually clean layout** using only HTML and CSS.
+
+## Features
+
+- Responsive layout for desktop, tablet, and mobile devices
+- Clean and modern landing page design
+- Organized business-style sections
+- Built entirely with HTML and custom CSS
+- No JavaScript or frameworks used
+
+## Technologies Used
+
+- HTML5
+- CSS3
 ---
 
 ## Demo Screenshot
@@ -30,11 +41,12 @@ It features dedicated sections like Home, About Us, Team, and a strong Landing a
 
 ## Getting Started
 
-Make sure you have [Git](https://git-scm.com/downloads) installed. Then run:
+Make sure you have **Git** installed on your computer.
+
+Then clone the repository:
 
 ```bash
 git clone https://github.com/Sarah-petrosyan/Quality-handyman-service.git
-```
 
 ---
 
