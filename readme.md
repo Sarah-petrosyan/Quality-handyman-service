@@ -1,9 +1,8 @@
-
 <div align="center">
 
-# Quality handyman service
+# Quality Handyman Service
 
-**A responsive and clean web page built entirely with pure CSS.**
+**A modern and responsive website designed for a construction and handyman business.**
 
 [**➥ Live Demo**](https://sarah-petrosyan.github.io/Quality-handyman-service/)
 
@@ -13,24 +12,18 @@
 
 ## About the Project
 
-Quality Handyman Service is a modern, mobile-friendly website designed for a **construction or handyman business**.
+This project is a clean and responsive website designed for a construction and handyman service business.  
+The page features a strong landing section along with structured areas that introduce the company, services, and team.
 
-The page includes several key sections such as **Home, About Us, Team, and a strong landing area**, providing a clear overview of the company's services, values, and mission.
+The layout focuses on clarity, usability, and a professional business-style design that helps showcase services and company values.
 
-This project focuses on building a **structured and visually clean layout** using only HTML and CSS.
+It was built to practice front-end development fundamentals while focusing on layout design, responsive structure, and styling.
 
-## Features
+✅ Built with **HTML & CSS**  
+✅ Fully responsive layout  
+✅ Clean UI inspired by modern business websites  
+✅ Beginner-friendly front-end project
 
-- Responsive layout for desktop, tablet, and mobile devices
-- Clean and modern landing page design
-- Organized business-style sections
-- Built entirely with HTML and custom CSS
-- No JavaScript or frameworks used
-
-## Technologies Used
-
-- HTML5
-- CSS3
 ---
 
 ## Demo Screenshot
@@ -41,28 +34,8 @@ This project focuses on building a **structured and visually clean layout** usin
 
 ## Getting Started
 
-Make sure you have **Git** installed on your computer.
-
-Then clone the repository:
+Make sure you have [Git](https://git-scm.com/downloads) installed. Then run:
 
 ```bash
 git clone https://github.com/Sarah-petrosyan/Quality-handyman-service.git
-
----
-
-## Want to connect?
-
-If you'd like to connect, collaborate, or just explore more of my work:
-
-- 🔗 **See more on GitHub**: [Sarah-petrosyan](https://github.com/Sarah-petrosyan)
-- 💼 **Connect with me on LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/jobs/)
-
-Feel free to reach out!
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
+```
